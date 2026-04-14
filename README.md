@@ -213,6 +213,4 @@ ctest --output-on-failure
 5. 创建Pull Request
 
 ## 联系方式
-
-- 项目主页: https://github.com/example/media-framework
-- 问题反馈: https://github.com/example/media-framework/issues
+   xxx
